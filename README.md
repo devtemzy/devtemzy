@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devtemzy
+- 👋🏽 Hi, I’m @devtemzy
 - 👀 I’m interested in good food, math, science, books, and tech.
-- 🌱 I’m currently learning java, c++, python, javascrip, and dart with flutter.
+- 🌱 I’m currently learning java, c++, python, javascript, and dart with flutter.
 
 
 <!---
